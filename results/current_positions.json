@@ -1,0 +1,23 @@
+{
+  "Cross-Asset Trend": {
+    "SPY": 0.1315,
+    "EFA": 0.0858,
+    "EEM": 0.0601,
+    "GLD": 0.032,
+    "DBC": 0.0706,
+    "VNQ": 0.0581
+  },
+  "Sector Momentum": {
+    "XLE": 0.3333,
+    "XLK": 0.3333,
+    "XLV": 0.3333
+  },
+  "RSI-2 Mean Reversion": {},
+  "Dual Momentum": {
+    "SPY": 1.0
+  },
+  "Turn of Month": {},
+  "Vol-Managed Equity": {
+    "SPY": 0.9064
+  }
+}
